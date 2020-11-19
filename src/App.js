@@ -16,8 +16,6 @@ function App() {
         </FormControl>
       </div>
 
-      {/* Title + select input dropdown field */}
-
       {/* Infobox */}
       {/* Infobox */}
       {/* Infobox */}
